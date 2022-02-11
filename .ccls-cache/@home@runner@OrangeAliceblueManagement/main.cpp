@@ -25,8 +25,8 @@ int main()
         cout<<"8- pulisci lo schermo"<<endl;
         cin>>scelta;
 
-        switch (scelta) 
-            
+        switch (scelta) {
+
             case 2: Carica(club);
                     break;
             case 3: visualizzadb(club);
@@ -112,7 +112,7 @@ void inizializza(vector<Persona*> & v){
 
 
 void Carica(vector<Persona*> & club) {
-   inizializza(club);
+                    //  inizializza(club);
                     int s;
                     cout<<"1: Socio base   2: Socio premium"<<endl;
                     cin>>s;
