@@ -1,6 +1,6 @@
 # Italian Mini Uni_Project
 
-Questo repository GitHub è dedicato alla gestione dei clienti per i circoli italiani. Il progetto mira a fornire un sistema di gestione del database per i clienti, che può essere utilizzato dai circoli per semplificare le loro operazioni.
+Gestione dei clienti per i circoli italiani. Il progetto mira a fornire un sistema di gestione del database per i clienti, che può essere utilizzato dai circoli per semplificare le loro operazioni.
 
 ## Caratteristiche principali:
 - Gestione dei clienti: Il sistema consente di registrare i dettagli dei clienti come nome, cognome, indirizzo, numero di telefono, e-mail, ecc.
